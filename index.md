@@ -7,29 +7,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Professional education
 
-
-- **Doctor of Science in Electrical Engineering**  
-  *Universidade Federal do Rio de Janeiro*  
+**Doctor of Science in Electrical Engineering**  
+*Universidade Federal do Rio de Janeiro*  
     
-        Thesis: Towards Visualization and Searching: A Dual-purpose Video Coding Approach [pdf](./thesis/thesis.pdf)
-        Scholarship from Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)
-        September 2013 - February 2018  
+Thesis: Towards Visualization and Searching: A Dual-purpose Video Coding Approach [[pdf](./thesis/thesis.pdf)]  
+Scholarship from Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)  
+September 2013 - February 2018  
     
-- **Master of Science in Electrical Engineering**  
-  **Universidade Federal do Rio de Janeiro**
+**Master of Science in Electrical Engineering**  
+*Universidade Federal do Rio de Janeiro*
   
-        Dissertation in Portuguese: Image Compression Using Prediction and Polynomials Approximations
-        Scholarship from Coordena\c c~ao de Aperfei\c coamento de Pessoal de N\'ivel Superior (CAPES)
-        March 2011 - September 2013
+Dissertation in Portuguese: Image Compression Using Prediction and Polynomials Approximations  
+Scholarship from Coordenação de Aperfeiçoamento de Pessoal de Níivel Superior (CAPES)  
+March 2011 - September 2013  
 
-- **Bachelor of Science in Mechatronic Engineering - Universidade Federal do Rio de Janeiro**
-{Universidade do Estado do Amazonas} % Institution
-{Manaus, Brasil} % Location
-{2006 - 2010} % Date(s)
-{
-}
+**Bachelor of Science in Mechatronic Engineering**  
+*Universidade do Estado do Amazonas*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
