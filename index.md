@@ -1,10 +1,33 @@
-## Welcome to GitHub Pages
+## Personal info
+
 
 You can use the [editor on GitHub](https://github.com/castrorenam/castrorenam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Professional education
+
+
+- **Doctor of Science in Electrical Engineering**  
+  *Universidade Federal do Rio de Janeiro*  
+    
+        Thesis: Towards Visualization and Searching: A Dual-purpose Video Coding Approach [pdf](./thesis/thesis.pdf)
+        Scholarship from Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)
+        September 2013 - February 2018  
+    
+- **Master of Science in Electrical Engineering**  
+  **Universidade Federal do Rio de Janeiro**
+  
+        Dissertation in Portuguese: Image Compression Using Prediction and Polynomials Approximations
+        Scholarship from Coordena\c c~ao de Aperfei\c coamento de Pessoal de N\'ivel Superior (CAPES)
+        March 2011 - September 2013
+
+- **Bachelor of Science in Mechatronic Engineering - Universidade Federal do Rio de Janeiro**
+{Universidade do Estado do Amazonas} % Institution
+{Manaus, Brasil} % Location
+{2006 - 2010} % Date(s)
+{
+}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,7 +51,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Publication
+
+### Conference
+
+### Journal
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/castrorenam/castrorenam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
