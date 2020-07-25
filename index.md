@@ -25,7 +25,7 @@ March 2011 - September 2013
 *Universidade do Estado do Amazonas*
 
 
-## Professional education
+## Publication
 
 ### Journal
 
@@ -49,39 +49,4 @@ Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Studying the Comp
 Renam C. da Silva, Luı́s F. R. Lucas, Eduardo A. B. da Silva, Carla L. Pagliari, Nuno M. M. Rodrigues, Sérgio M. M. Faria. **Compress\~ao de Mapas de Profundidade usando Predição e Aproximações Polinomiais**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*. [[draft](./publication/2013/sbrt_2013.pdf)]
 
 
-. **Detecção de Falhas em Cabos e Análise de Qualidade de Conexão em Circuitos de Comunicação**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*. [[draft](./publication/2013/sbrt_2013.pdf)]
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Publication
-
-### Conference
-
-### Journal
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/castrorenam/castrorenam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Detecção de Falhas em Cabos e Análise de Qualidade de Conexão em Circuitos de Comunicação**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*. [[draft](./publication/2013/sbrt_2013.pdf)]
