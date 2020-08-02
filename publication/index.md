@@ -4,13 +4,13 @@ title: "publication"
 date: 20-08-02
 ---
 
-## Publication
+# Publication
 
-### Journal
+## Journal
 
 Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [[draft](../publication/2020/ieee_access.pdf)]
 
-### Conference
+## Conference
 
 Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Multi-mode Intra Prediction for Learning-based Image Compression**. *International Conference on Image Processing (ICIP), accepted, 2020.* [[draft](../publication/2020/icip_2020.pdf)] 
 
