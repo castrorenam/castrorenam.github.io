@@ -28,4 +28,4 @@ Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Studying the Comp
 Renam C. da Silva, Luı́s F. R. Lucas, Eduardo A. B. da Silva, Carla L. Pagliari, Nuno M. M. Rodrigues, Sérgio M. M. Faria. **Compress\~ao de Mapas de Profundidade usando Predição e Aproximações Polinomiais**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*. [[draft](../publication/2013/sbrt_2013.pdf)]
 
 
-**Detecção de Falhas em Cabos e Análise de Qualidade de Conexão em Circuitos de Comunicação**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*. [[draft](../publication/2013/sbrt_2013.pdf)]
+**Detecção de Falhas em Cabos e Análise de Qualidade de Conexão em Circuitos de Comunicação**. *Simpósio Brasileiro de Telecomunicações (SBrT), Juiz de Fora, Brasil, September 2013*.
