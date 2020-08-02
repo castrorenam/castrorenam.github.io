@@ -4,7 +4,7 @@ title: "about"
 date: 20-08-02
 ---
 
-# Short bio
+## Short bio
 
 
 Renam Silva received his bachelor degree in Mechatronics Engineering from Universidade do Estado do Amazonas, 
