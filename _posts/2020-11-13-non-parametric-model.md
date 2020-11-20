@@ -16,6 +16,10 @@ compressive autoencoders. Specifically, the modeling described in the paper [Var
 In order to optimize variational autoencoders for image compression, one is required to model the probability of the latent representation
 **z**. The authors propose the following composition of function for the cdf:
 
+\begin{equation}
+    J = D + \lambda R
+\end{equation}
+
 
 
 
