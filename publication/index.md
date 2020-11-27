@@ -28,3 +28,12 @@ Renam C. da Silva, Luı́s F. R. Lucas, Eduardo A. B. da Silva, Carla L. Pagliar
 
 
 **Detecção de Falhas em Cabos e Análise de Qualidade de Conexão em Circuitos de Comunicação**. *Congresso Brasileiro de Automática (CBA), Bonito, Brasil, September 2010*.
+
+## Thesis
+
+Towards Visualization and Searching: A Dual-purpose Video Coding Approach. In english [[thesis](../publication/thesis/thesis.pdf)]
+
+## Dissertation
+
+Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portuguese [[dissertation](../publication/dissertation/dissertacao.pdf)]
+

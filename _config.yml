@@ -1,3 +1,6 @@
 name: Renam Castro da Silva
 markdown: kramdown
 theme: jekyll-theme-minimal
+plugins: 
+  - jekyll-feed
+
