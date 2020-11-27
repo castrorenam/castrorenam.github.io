@@ -158,18 +158,10 @@ As the pdf is assumed to factorized:
 \end{equation}
 
 
-```bash
-    conda env list
-```
+# ```bash
+#     conda env list
+# ```
 
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 
 
