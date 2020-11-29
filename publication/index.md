@@ -8,7 +8,7 @@ date: 20-08-02
 
 ## Journal
 
-Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [[draft](../publication/2020/ieee_access.pdf)][[link](https://ieeexplore.ieee.org/document/8960377)]
+Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [link](https://ieeexplore.ieee.org/document/8960377)
 
 ## Conference
 

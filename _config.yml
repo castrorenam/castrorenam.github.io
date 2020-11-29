@@ -1,6 +1,14 @@
 name: Renam Castro da Silva
 markdown: kramdown
-theme: jekyll-theme-minimal
+#highlighter: rouge
+#theme: jekyll-theme-minimal
+
+theme: minima
+
+description: >- # this means to ignore newlines until "baseurl:"
+  This site serves the purpose of gathering information about my research interest, help my memory remembering a few technical tools,  provide prompt access to my reading notes and maybe help someone else out there interested in the same kinds of stuff.
+
+
 plugins: 
   - jekyll-feed
 

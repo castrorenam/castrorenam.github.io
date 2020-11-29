@@ -1,25 +1,30 @@
 ---
-layout: post
+layout: cpost
 title: "Reading notes: Non-parametric model"
 date: 20-10-28
 categories: jekyll update
 ---
 
 
+# In construction
+
 ## What
 
 Reading notes about the non-parametric stistical model for latent representation produced by
 compressive autoencoders. Specifically, the modeling described in the paper [Variational Image Compression with a Scale Hyperprior](https://arxiv.org/abs/1802.01436).
 
-## In construction
+
+## Objective
+
+Given a set of observation sampled from an unknown distribution, we want to fit a non parametric distribution model to the source distribution.
 
 ### Cdf as composition of functions
 
 In order to optimize variational autoencoders for image compression, one is required to model the probability of the latent representation
-**z**. For this purpose, the latent representation is assumed to follow a factorized distribution:
+**z**. A straightforward approach assumes the latent representation follows a factorized distribution:
 
 \begin{equation}
-    P_{ \tilde{\mathbf{y}}| \boldsymbol{\psi}^{(i)} } = \prod_{i}  P_{ \mathbf{y}_i| \boldsymbol{\psi}^{(i)}} \( \mathbf{y}_i; \boldsymbol{\psi}^{(i)} \)  \ast u(-\frac{1}{2}, \frac{1}{2}) 
+    P_{ \tilde{\mathbf{y}}| \boldsymbol{\psi}^{(i)} } = \prod_{i}  P_{ \mathbf{y}_i| \boldsymbol{\psi}^{(i)}} \( \mathbf{y}_i \ast u(-1/2, 1/2); \boldsymbol{\psi}^{(i)} \)   
 \end{equation}
 
 The authors propose the following (learnable) composition of function for the cdf *c* of the latent:
@@ -36,16 +41,15 @@ Therefore, the pdf *p* would be:
 \end{equation}
 where $f_{K}^{\prime}$ are Jacobian matrices
 
-
-For univariate distributions the domain of $f_1$ and range of $f_K$ need to be 1-D. To make sure *c* is validy cdf one need:
+For univariate distributions the domain of $f_1$ and range of $f_K$ need to be 1-D. To make sure *c* is a valid cdf one need:
 
 1. $p(x) \geq 0 $.
 
 2. $c(-\infty) = 0$ and $c(\infty) = 1$
 
-To satisfy condition 1, one need every $f_{k}^{\prime}$ in Equation 3 to be positive. This justify the particular choices of functions used by the authors.
+To satisfy condition 1, one need every $f_{k}^{\prime}$ in Equation 3 to be positive. This justifies the functions used by the authors.
 
-To satify condition 2, the authors choose $f_K$ to be the sigmoid function.
+To satisfy condition 2, the authors choose the sigmoid for $f_K$.
 
 
 #### Parametric functions $f_k$
@@ -64,7 +68,7 @@ The nonlinearity $g_k$ is defined as:
 where $\mathbf{a}$s are learnable vectors.
 
 
-To guarantee that the $f_k^{\prime}$s are non-negative, the authors defined the learnable parameters as follows:
+To guarantee the $f_k^{\prime}$s are non-negative, the authors defined $\mathbf{H}$s and $\mathbf{a}$s as follows:
 
 \begin{equation}
     \mathbf{H}^{(k)} = softplus(\hat{\mathbf{H}}^{(k)}) 
@@ -73,10 +77,7 @@ To guarantee that the $f_k^{\prime}$s are non-negative, the authors defined the 
 \begin{equation}
     \mathbf{a}^{(k)} = tanh(\hat{\mathbf{a}}^{(k)})
 \end{equation}
-
-
-
-
+where $\hat{\mathbf{H}}$s and $\hat{\mathbf{a}}$s are in fact the learnable parameters.
 
 
 The $f_K$ is simply the sigmoid aplied after linear transformation:
@@ -84,9 +85,6 @@ The $f_K$ is simply the sigmoid aplied after linear transformation:
 \begin{equation}
     f_K(\mathbf{x}) = sigmoid(\mathbf{H}^{(K)} \mathbf{x} + \mathbf{b}^{(K)})
 \end{equation}
-
-
-
 
 ### Transformation view
 
@@ -99,9 +97,7 @@ In probabilities textbooks, one usually encounter the problem of determining the
 \end{equation}
 where $|J|$ is absolute value of the Jacobian determinant.
 
-
 Note that the last function applied in Equation 2 is the sigmoid function, which is known to be the cdf function of the logistic distribution. One can view the chain of functions applied to the input variable as a transformation to change it into a logistic-distributed random variable.
-
 
 \begin{equation}
     c(x) = sigmoid(x)
@@ -112,7 +108,7 @@ where,
     x =  \mathbf{H}^{K} (f_{K-1} \circ \cdot\cdot\cdot \circ f_1) + \mathbf{b}^{K}
 \end{equation}
 
-Therefore, the chain of transformation is in fact turning the input variable of unknown distribution into a standard logistic distribution variable, which is in tur used to estimate the entropy of the latent. 
+Therefore, the chain of transformation is in fact turning the input variable of unknown distribution into a standard logistic distribution variable, which is in turn used to estimate the entropy of the latent. 
 
 
 Suppose we have a set of samples {$z_1, z_2, ...$} sampled from a unknown distribution.
@@ -131,6 +127,7 @@ We want to find a transform $x = T(z, \psi)$ parametrized by $\psi$ such that:
 
 ### Objective function
 
+To drive the learning of the model parameters, the loss function is simply the entropy of $\mathbf{z}$ with respect to the fitted model. Thus, it is expected the model will be driven to provide accurate probability estimates:
 
 \begin{equation}
     Loss = -\mathbb{E}_{p(\mathbf{z})} \lbrace log \ p(\mathbf{z}) \rbrace
@@ -151,16 +148,9 @@ In practise, we approximate the expectation by averaging over a large data set o
 \end{equation}
 
 
-As the pdf is assumed to factorized: 
-
-\begin{equation}
-    Loss = - \frac{1}{N} \sum_s^N  log \ p(\mathbf{z})
-\end{equation}
-
-
-# ```bash
-#     conda env list
-# ```
+```bash
+     conda env list
+```
 
 
 
