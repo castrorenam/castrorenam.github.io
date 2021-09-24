@@ -12,6 +12,8 @@ Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualiza
 
 ## Conference
 
+Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Learning-based End-to-End Video CompressionUsing Predictive Coding**. *Conference on Graphics, Patterns and Images (SIBGRAPI), accepted, 2021 (To appear)* 
+
 Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Multi-mode Intra Prediction for Learning-based Image Compression**. *International Conference on Image Processing (ICIP), accepted, 2020.* [[draft](../publication/2020/icip_2020.pdf)] [[link](https://ieeexplore.ieee.org/document/9191108)]
 
 Renam C. da Silva, Nilson D. Guerin, Pedro Sanches, Henrique C. Jung, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro G. Freitas. **Joint Motion and Residual Information Latent Representation for P-frame coding**. *Computer Vision and Pattern Recognition (CVPR) Workshops, Online, June 2020*. [[draft](../publication/2020/cvprw_2020.pdf)][[link](https://ieeexplore.ieee.org/document/9151027)]
