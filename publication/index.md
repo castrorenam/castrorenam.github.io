@@ -12,7 +12,7 @@ Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualiza
 
 ## Conference
 
-Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Learning-based End-to-End Video CompressionUsing Predictive Coding**. *Conference on Graphics, Patterns and Images (SIBGRAPI), accepted, 2021 (To appear)* 
+Matheus C. de Oliveira, Luiz G. R. Martins, Henrique Costa Jung, Nilson Donizete Guerin Jr, Renam Castro da Silva, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, and Pedro Garcia Freitas. **Learning-based End-to-End Video CompressionUsing Predictive Coding**. *Conference on Graphics, Patterns and Images (SIBGRAPI), accepted, 2021 (To appear)* 
 
 Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Multi-mode Intra Prediction for Learning-based Image Compression**. *International Conference on Image Processing (ICIP), accepted, 2020.* [[draft](../publication/2020/icip_2020.pdf)] [[link](https://ieeexplore.ieee.org/document/9191108)]
 
@@ -39,3 +39,9 @@ Towards Visualization and Searching: A Dual-purpose Video Coding Approach. In en
 
 Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portuguese [[dissertation](../publication/dissertation/dissertacao.pdf)]
 
+
+## Patents
+
+Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)
+
+Method for Training Compressing Light-field Data (Filed 2021)
