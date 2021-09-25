@@ -44,4 +44,4 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 
 Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)
 
-Method for Training Compressing Light-field Data (Filed 2021)
+Method for Compressing Light-field Data (Filed 2021)
