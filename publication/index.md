@@ -8,10 +8,10 @@ date: 20-08-02
 
 ## Journal
 
-Nilson D.Guerin Jr., **Renam Castro da Silva**, Matheus C. de Oliveira, Henrique C. Jung, Luiz Gustavo R. Martins, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro Garcia Freitas. **Rate-constrained learning-based image compression**. *Signal Processing: Image Communication, November 2021*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002691)
+Nilson D.Guerin Jr., **Renam Castro da Silva**, Matheus C. de Oliveira, Henrique C. Jung, Luiz Gustavo R. Martins, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro Garcia Freitas. **Rate-constrained learning-based image compression**. *Signal Processing: Image Communication, November 2021*. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002691)]
 
 
-Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [link](https://ieeexplore.ieee.org/document/8960377)
+Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [[link](https://ieeexplore.ieee.org/document/8960377)]
 
 ## Conference
 
@@ -40,7 +40,7 @@ Towards Visualization and Searching: A Dual-purpose Video Coding Approach. In en
 
 ## Dissertation
 
-Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portuguese [[dissertation](../publication/dissertation/dissertacao.pdf)]
+Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portuguese [[dissertation](./dissertation/dissertacao.pdf)]
 
 
 ## Patents
