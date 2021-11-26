@@ -8,11 +8,14 @@ date: 20-08-02
 
 ## Journal
 
+Nilson D.Guerin Jr., **Renam Castro da Silva**, Matheus C. de Oliveira, Henrique C. Jung, Luiz Gustavo R. Martins, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro Garcia Freitas. **Rate-constrained learning-based image compression**. *Signal Processing: Image Communication, November 2021*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002691)
+
+
 Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [link](https://ieeexplore.ieee.org/document/8960377)
 
 ## Conference
 
-Matheus C. de Oliveira, Luiz G. R. Martins, Henrique Costa Jung, Nilson Donizete Guerin Jr, Renam Castro da Silva, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, and Pedro Garcia Freitas. **Learning-based End-to-End Video CompressionUsing Predictive Coding**. *Conference on Graphics, Patterns and Images (SIBGRAPI), accepted, 2021 (To appear)* 
+Matheus C. de Oliveira, Luiz G. R. Martins, Henrique Costa Jung, Nilson Donizete Guerin Jr, **Renam Castro da Silva**, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, and Pedro Garcia Freitas. **Learning-based End-to-End Video CompressionUsing Predictive Coding**. *Conference on Graphics, Patterns and Images (SIBGRAPI), accepted, 2021 (To appear)* 
 
 Henrique C. Jung, Nilson D. Guerin Jr. , Raphael S. Ramos, Bruno Macchiavello, Eduardo Peixoto, Edson M. Hung, Teofilo de Campos, Renam C. da Silva, Vanessa Testoni, Pedro G. Freitas. **Multi-mode Intra Prediction for Learning-based Image Compression**. *International Conference on Image Processing (ICIP), accepted, 2020.* [[draft](../publication/2020/icip_2020.pdf)] [[link](https://ieeexplore.ieee.org/document/9191108)]
 
@@ -33,7 +36,7 @@ Renam C. da Silva, Luı́s F. R. Lucas, Eduardo A. B. da Silva, Carla L. Pagliar
 
 ## Thesis
 
-Towards Visualization and Searching: A Dual-purpose Video Coding Approach. In english [[thesis](../publication/thesis/thesis.pdf)]
+Towards Visualization and Searching: A Dual-purpose Video Coding Approach. In english [[thesis](./thesis/thesis.pdf)]
 
 ## Dissertation
 
