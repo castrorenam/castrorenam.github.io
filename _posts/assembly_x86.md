@@ -15,28 +15,64 @@ Reading notes about assembly programming for future use.
 
 ### Tools
 
-
 ** nasm  (compiler)
+** ld (linker)
+** gdb (debugger)
+
+
+### Code
+
+Reference: https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm
+
+```asm
+
+section .text
+        global _start   ; must be declared for linker (ld) (like main function)
+
+_start:                 ; entry point
+        mov edx, len    ; message length
+        mov ecx, msg    ; message to write
+        mov ebx, 1      ; file descriptor (stdout)
+        mov eax, 4      ; system call number (sys_write)
+        int 0x80        ; call kernel
+
+        mov eax, 1      ; sys cam number (sys_exit)
+        int 0x80        ; call kernel
+
+section .data
+        msg db 'Hello world|', 0xa
+        len equ $ - msg    
+```
+
+## Compile
 
 ```bash
     nasm -f elf64 -g -F dwarf  <source.s> 
     # -g -F dwarf : for debugging purposes
 ```
 
-** ld (linker)
+## Link
 
 ```bash
     ld <source.o> -o <exec_nane>
     # eg. ld hw.o -o exec
 ```
 
-
-** gdb (debugger)
+## Debug
 
 ```bash
     gdb <exec_name> -tui
     # optional: -tui (text user interface)
 ```
+
+Useful gdb commands:
+
+** run (r)
+** step (s)
+** continue (c)
+** breakpoint (b) <funcname>, <filename>:<line>, <line>
+** backtrace (bt)
+** print <var>
 
 
 \begin{equation}
