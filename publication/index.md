@@ -45,6 +45,7 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 
 ## Patents
 
-Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)
+Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)  [[link](https://patentimages.storage.googleapis.com/b5/ae/91/6a9b3eb2dd23a4/US20220245449A1.pdf)]
+
 
 Method for Compressing Light-field Data (Filed in 2021 - **Granted** in 2022). [[link](https://patentimages.storage.googleapis.com/8f/2e/a1/c55aebb2001d78/US11259005.pdf)]
