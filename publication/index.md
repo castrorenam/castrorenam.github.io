@@ -47,18 +47,16 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 
 ## Patents
 
+1. An Active On-device Learning Approach for Extreme Resource-constrained Devices 
 
-1. Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
-
-2. Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
+2. Text Chunking using Context Disruption - (Filed February/2025)
 
 3. An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
 
-4. Text Chunking using Context Disruption - (Filed February/2025)
+4. Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
 
-5. An Active On-device Learning Approach for Extreme Resource-constrained Devices 
+5. Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
 
 6. Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)  [[link](https://patentimages.storage.googleapis.com/b5/ae/91/6a9b3eb2dd23a4/US20220245449A1.pdf)]
 
 7. Method for Compressing Light-field Data (Filed in 2021 - **Granted** in 2022). [[link](https://patentimages.storage.googleapis.com/8f/2e/a1/c55aebb2001d78/US11259005.pdf)]
-
