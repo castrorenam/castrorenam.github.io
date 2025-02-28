@@ -8,8 +8,10 @@ date: 20-08-02
 
 ## Journal
 
-Nilson D.Guerin Jr., **Renam Castro da Silva**, Matheus C. de Oliveira, Henrique C. Jung, Luiz Gustavo R. Martins, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro Garcia Freitas. **Rate-constrained learning-based image compression**. *Signal Processing: Image Communication, November 2021*. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002691)]
 
+Nilson D.Guerin Jr., **Renam Castro da Silva**, Bruno Macchiavello. **Learning-Based Image Compression with Parameter Adaptive Rate-Constrained Loss**. *IEEE Signal Processing Letters,  April 2025*. [[link](https://ieeexplore.ieee.org/document/10487041)] 
+
+Nilson D.Guerin Jr., **Renam Castro da Silva**, Matheus C. de Oliveira, Henrique C. Jung, Luiz Gustavo R. Martins, Eduardo Peixoto, Bruno Macchiavello, Edson M. Hung, Vanessa Testoni, Pedro Garcia Freitas. **Rate-constrained learning-based image compression**. *Signal Processing: Image Communication, November 2021*. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002691)]
 
 Renam C. da Silva, Fernando Pereira, Eduardo A. B. da Silva. **Towards Visualization and Searching: a Dual-Purpose Video Coding Framework**. *IEEE Access, vol. 8, no 1, January 2020*. [[link](https://ieeexplore.ieee.org/document/8960377)]
 
@@ -45,22 +47,18 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 
 ## Patents
 
-Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)  [[link](https://patentimages.storage.googleapis.com/b5/ae/91/6a9b3eb2dd23a4/US20220245449A1.pdf)]
 
+1. Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
 
-Method for Compressing Light-field Data (Filed in 2021 - **Granted** in 2022). [[link](https://patentimages.storage.googleapis.com/8f/2e/a1/c55aebb2001d78/US11259005.pdf)]
+2. Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
 
+3. An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
 
-Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
+4. Text Chunking using Context Disruption - (Filed February/2025)
 
+5. An Active On-device Learning Approach for Extreme Resource-constrained Devices 
 
-Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
+6. Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)  [[link](https://patentimages.storage.googleapis.com/b5/ae/91/6a9b3eb2dd23a4/US20220245449A1.pdf)]
 
+7. Method for Compressing Light-field Data (Filed in 2021 - **Granted** in 2022). [[link](https://patentimages.storage.googleapis.com/8f/2e/a1/c55aebb2001d78/US11259005.pdf)]
 
-An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
-
-
-Text Chunking using Context Disruption - (Filed February/2025)
-
-
-An Active On-device Learning Approach for Extreme Resource-constrained Devices 
