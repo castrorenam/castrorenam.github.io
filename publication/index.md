@@ -49,3 +49,18 @@ Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Fi
 
 
 Method for Compressing Light-field Data (Filed in 2021 - **Granted** in 2022). [[link](https://patentimages.storage.googleapis.com/8f/2e/a1/c55aebb2001d78/US11259005.pdf)]
+
+
+Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
+
+
+Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
+
+
+An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
+
+
+Text Chunking using Context Disruption - (Filed February/2025)
+
+
+An Active On-device Learning Approach for Extreme Resource-constrained Devices 
