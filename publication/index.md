@@ -53,7 +53,7 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 
 3. An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
 
-4. Lossless and lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
+4. Lossless and Lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
 
 5. Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
 
