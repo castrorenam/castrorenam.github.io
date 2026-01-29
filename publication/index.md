@@ -8,7 +8,7 @@ date: 20-08-02
 
 ## Journal
 
-1. Mintsu M. Hung, **Renam Castro da Silva**, Andrey O. O. dos Reis, Darlington Akogo. **Image Downsizing and Compression Impacts on AI-based Medical Image Classification**. *Journal of Communication and Information Systems, January 2026*. ISSN: 1980-6604, DOI: 10.14209/jcis.2026.2 
+1. Mintsu M. Hung, **Renam Castro da Silva**, Andrey O. O. dos Reis, Darlington Akogo. **Image Downsizing and Compression Impacts on AI-based Medical Image Classification**. *Journal of Communication and Information Systems, January 2026*. ISSN: 1980-6604, DOI: 10.14209/jcis.2026.2, [[link](https://jcis.sbrt.org.br/jcis/article/view/933)]  
 
 
 2. **Renam Silva**, Ulisses S. Guimarães, Diogo C. Garcia, Hélcio Vieira Jr., Edson M. Hung. **Deep-learning deforestation detection in the Legal Amazon area based on Sentinel-1 data**. *Remote Sensing Applications: Society and Environment,  October 2025*. Volume 40,  ISSN: 2352-9385, DOI: 10.1016/j.rsase.2025.101747, [[link](https://www.sciencedirect.com/science/article/pii/S2352938525003003)] 
@@ -70,10 +70,10 @@ Compressão de Imagens Usando Predição e Aproximações Polinomiais. In portug
 5. An Entropy-based Drift-aware Federated Learning Solution Robust Against Environment with Heterogeneous Data - (Filed Jul/2024)
 
 6. Lossless and Lossy Large Language Model-based Text Compression via Arithmetic Encoding - (Filed Dez/2023)
-[[link](https://patentimages.storage.googleapis.com/f3/bc/f9/a47520009468f3/US20250217591A1.pdf)
+[[link](https://patentimages.storage.googleapis.com/f3/bc/f9/a47520009468f3/US20250217591A1.pdf)]
 
 7. Entropy-based Online Learning with Active Sparse Layer Update for On-device Training with Resource-constrained Devices - (Filed Nov/2023)
-[[link](https://patentimages.storage.googleapis.com/0e/95/e4/19f9386076d09a/US20250148277A1.pdf)
+[[link](https://patentimages.storage.googleapis.com/0e/95/e4/19f9386076d09a/US20250148277A1.pdf)]
 
 8. Method for Training a Single Non-Symmetric Decoder for Learning-based Codecs (Filed 2021)  [[link](https://patentimages.storage.googleapis.com/b5/ae/91/6a9b3eb2dd23a4/US20220245449A1.pdf)]
 <!--  https://patents.google.com/patent/US20220245449A1/en?oq=US+2022%2f0245449+A1 -->
